@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://derkrichler.de/"
+title: Blog | derkrichler
 paginate: 5
 theme: PaperMod
 
@@ -8,22 +8,20 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: derkrichler
+  description: "Blog for biking, running and swimming"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  DateFormat: "02.01.2016"
+  defaultTheme: light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -73,24 +71,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "This is Flo's blog"
+    Content: "Keep on running ... \U0001F3C3"
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
-
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      url: "https://twitter.com/foreverfcb91"
+    - name: instagram
+      url: "https://www.instagram.com/der.krichler/"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -112,20 +100,22 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: bike
+      name: bike
+      url: /bike/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: swim
+      name: swim
+      url: /swim/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: run
+      name: run
+      url: /run/
       weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
