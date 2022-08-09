@@ -14,6 +14,14 @@ Besonders an @karl_amn, der extra aus Malle eingeflogen ist😜😂
 
 Danke an @janiskuhlmann fürs gegenseitige pushen💪🏻
 
+![Bike](/Ostseeman bike.jpg)
+![Swimstart](/Ostseeman Start.jpg)
+![Swimexit](/Ostseeman swim.jpg)
+![Run](/Ostseeman run1.jpg)
+![Run2](/Ostseeman run2.jpg)
+
+
+
 📸 @ichbinphilip
 
 #tribandits #tsgbergedorf #elbathleten #triathlon #ostseeman
