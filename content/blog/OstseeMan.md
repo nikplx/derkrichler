@@ -17,7 +17,7 @@ Danke an @janiskuhlmann fürs gegenseitige pushen💪🏻
 ![Bike](/Ostseeman_bike.jpg)
 ![Swimstart](/Ostseeman_Start.jpg)
 ![Swimexit](/Ostseeman_swim.jpg)
-![Run](/Ostseeman_run1.jpg)
+![Run](/Ostseeman_run.jpg)
 ![Run2](/Ostseeman_run2.jpg)
 
 
