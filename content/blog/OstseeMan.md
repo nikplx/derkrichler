@@ -14,11 +14,11 @@ Besonders an @karl_amn, der extra aus Malle eingeflogen ist😜😂
 
 Danke an @janiskuhlmann fürs gegenseitige pushen💪🏻
 
-![Bike](/Ostseeman bike.jpg)
-![Swimstart](/Ostseeman Start.jpg)
-![Swimexit](/Ostseeman swim.jpg)
-![Run](/Ostseeman run1.jpg)
-![Run2](/Ostseeman run2.jpg)
+![Bike](/Ostseeman_bike.jpg)
+![Swimstart](/Ostseeman_Start.jpg)
+![Swimexit](/Ostseeman_swim.jpg)
+![Run](/Ostseeman_run1.jpg)
+![Run2](/Ostseeman_run2.jpg)
 
 
 
