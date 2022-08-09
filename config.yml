@@ -93,14 +93,14 @@ params:
 
 menu:
   main:
+      - identifier: swim
+      name: swim
+      url: /swim/
+      weight: 20
     - identifier: bike
       name: bike
       url: /blog/rolling-through-corona/
       weight: 10
-    - identifier: swim
-      name: swim
-      url: /swim/
-      weight: 20
     - identifier: run
       name: run
       url: /run/
