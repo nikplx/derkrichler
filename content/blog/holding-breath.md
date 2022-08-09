@@ -6,8 +6,7 @@ aliases:
   - "/swim/"
 ---
 
-Back in the pool. Pooool
-
+Back in the pool.
 First swim session in a long time.🏊
 Had a lot of fun, but lots of things to improve.
 
