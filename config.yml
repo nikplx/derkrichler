@@ -93,7 +93,7 @@ params:
 
 menu:
   main:
-      - identifier: swim
+    - identifier: swim
       name: swim
       url: /swim/
       weight: 20
